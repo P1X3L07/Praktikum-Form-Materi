@@ -77,6 +77,7 @@ namespace Trial_Praktikum
         {
             txtBoxData.Text = "";
             listBoxCollection.Items.Clear();
+            labelOutputResult.Text = " ";
         }
     }
 }
